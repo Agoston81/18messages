@@ -1,2 +1,2 @@
-# 18messages
-18 messages after death
+# 24messages
+24 messages after death
